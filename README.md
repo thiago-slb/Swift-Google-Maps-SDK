@@ -1,1 +1,1 @@
-# Swift-Google-Maps-SDK
+# Swift Google Maps SDK Example
